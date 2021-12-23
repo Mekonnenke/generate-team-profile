@@ -1,0 +1,29 @@
+{
+  "name": "generate-team-profile",
+  "version": "1.0.0",
+  "description": "For OPP challenge 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mekonnenke/generate-team-profile.git"
+  },
+  "author": "Mekonnen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mekonnenke/generate-team-profile/issues"
+  },
+  "homepage": "https://github.com/Mekonnenke/generate-team-profile#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
