@@ -2,7 +2,8 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const Engineer = require("./script/Engineer");
 const Intern = require("./script/Intern");
-const Manager = require("./script/Manager");const employees = [];
+const Manager = require("./script/Manager");
+const employees = [];
 
 function initApp() {
     startHtml();

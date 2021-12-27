@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Mekonnenke/generate-team-profile#readme",
   "dependencies": {
+    "inquirer": "^8.2.0",
     "require": "^2.4.20"
   },
   "devDependencies": {
