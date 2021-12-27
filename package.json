@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "directories": {
-    "lib": "lib",
+    "lib": "script",
     "test": "test"
   },
   "repository": {
