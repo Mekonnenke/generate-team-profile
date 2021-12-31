@@ -17,6 +17,7 @@ url: https://mekonnenke.github.io/generate-team-profile/
 
 github:  https://github.com/Mekonnenke/generate-team-profile
 
-
+These are the html and node js format preview of the challenge
 ![Capture](https://user-images.githubusercontent.com/90818220/147800918-9adc7f94-580a-46f9-bee5-4287daa75c96.JPG)
-![Capture2](https://user-images.githubusercontent.com/90818220/147800920-60c9352d-0145-41d0-8eb9-8bc04d7e96a5.JPG)
+
+![12](https://user-images.githubusercontent.com/90818220/147803194-b6dd3a8b-4a01-43ef-a482-f849cbf0cb05.gif)
