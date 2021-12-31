@@ -13,7 +13,9 @@ Run npm test to run Jest for tests on constructors.
 Usage
 Use inquirer from your command line to answer questions about your project. 
 
-url : https://mekonnenke.github.io/generate-team-profile/
+url: https://mekonnenke.github.io/generate-team-profile/
+
+github:  https://github.com/Mekonnenke/generate-team-profile
 
 
 ![Capture](https://user-images.githubusercontent.com/90818220/147800918-9adc7f94-580a-46f9-bee5-4287daa75c96.JPG)
